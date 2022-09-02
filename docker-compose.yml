@@ -1,0 +1,12 @@
+version: "3.0"
+
+services: 
+  ms_pdf:
+    build: .
+    container_name: ms_pdf
+    ports: 
+      - "3005:3005"
+    volumes: 
+      - ./:/usr/src/app
+    tty: true
+    command: npm start
