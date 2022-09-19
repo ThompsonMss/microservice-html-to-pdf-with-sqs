@@ -74,13 +74,13 @@ Siga os comandos abaixo para executar essa aplicação em sua máquina.
 ```bash
 # Clonando o repositório da aplicação.
 
-git clone https://github.com/ThompsonMss/ms-pdf-com-sqs
+git clone https://github.com/ThompsonMss/microservice-html-to-pdf-with-sqs
 ```
 
 ```bash
 # Entrando na pasta da aplicação.
 
-cd ms-pdf/
+cd microservice-html-to-pdf-with-sqs/
 ```
 
 ```bash
